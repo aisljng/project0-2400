@@ -9,7 +9,7 @@ public class Main
         System.out.println("Pick a number in your head between 1 and 100.");
         // ask user to pick number
         System.out.println();
-        int low = 30; int high = 50;
+        int low = 30; int high = 400;
         Random g = new Random();
         int guess;
         int i = 1;
